@@ -1,6 +1,6 @@
 #!/bin/sh
-DOMAIN="https://xiaozhi-android.ai-box-plus.click"
-VERSION="v4.0.0"
+DOMAIN="https://github.com/congtuhaixinhzai/AI/releases/download"
+VERSION="1.0.1"
 
 rm -f $HOME/*.apk
 rm -f $HOME/*.sh
